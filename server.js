@@ -1,1 +1,2 @@
-//versão da branch cg
+//versao da branch cg
+// modo forcado
